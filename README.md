@@ -17,5 +17,7 @@
 
 </body>
 </html>
-cd 
+<$ cd citfrontier.github.io>
+<$ echo"hello World">
+
 
