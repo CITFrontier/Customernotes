@@ -15,9 +15,6 @@
 
 <p>"Please refresh using F5 once done with the customer".</p>
 
-</body>
-</html>
-<$ cd citfrontier.github.io>
-<$ echo"hello World">
+
 
 
